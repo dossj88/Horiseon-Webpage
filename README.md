@@ -19,10 +19,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![website screenshot](./assets/images/header_navbar.png)
 ![website screenshot](./assets/images/main-content.png)
 
-## Link to website
-
-https://dossj88.github.io/Horiseon-Webpage/
-
 ```
 ## Credits
 N/A
